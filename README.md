@@ -1,1 +1,1 @@
-# Mini-Search
+It's a mini web search engine. It retrives the data from the google according to the user search input and give the output accordingly. It is built-up using HTML, CSS and bootstrap for front-end and for back-end Python is used for connectivity using flask environment.
